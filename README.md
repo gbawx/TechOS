@@ -1,2 +1,2 @@
 # TechOS
-Techniocal Operating System
+Technical Operating System
